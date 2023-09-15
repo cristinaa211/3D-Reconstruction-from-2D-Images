@@ -1,0 +1,63 @@
+18:58:54 [App     ] Build date: May 15 2023, 22:04:12
+18:58:54 [App     ] CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz (8 cores)
+18:58:54 [App     ] RAM: 15.37GB Physical Memory 2.00GB Virtual Memory
+18:58:54 [App     ] OS: Linux 5.19.0-41-generic (x86_64)
+18:58:54 [App     ] Disk: 14.67GB (99.24GB) space
+18:58:54 [App     ] SSE & AVX compatible CPU & OS detected
+18:58:54 [App     ] Command line: ReconstructMesh scene_dense.mvs -w "/home/cristina/openMVS/rezultate_figurina/mvs"
+18:58:55 [App     ] CUDA device 0 initialized: NVIDIA GeForce GTX 1650 (compute capability 7.5; memory 3.68GB)
+18:59:00 [App     ] Scene loaded (5s377ms):
+	16 images (16 calibrated) with a total of 12.00 MPixels (0.75 MPixels/image)
+	643326 points, 0 vertices, 0 faces
+18:59:55 [App     ] Delaunay tetrahedralization completed: 643326 points -> 273049 vertices, 1713583 (+222) cells, 3427277 (+333) faces (53s135ms)
+19:03:02 [App     ] 	weighting completed in 3m2s342ms
+19:03:02 [App     ] Delaunay tetrahedras weighting completed: 1713805 cells, 3427610 faces (3m7s354ms)
+19:03:12 [App     ] Delaunay tetrahedras graph-cut completed (262246 flow): 247946 vertices, 496010 faces (10s169ms)
+19:03:18 [App     ] Fixed 36/62 non-manifold edges/vertices and 203 faces removed: 29 pyramid3 and 29 pyramid4 (5s902ms)
+19:03:24 [App     ] Fixed 6/15 non-manifold edges/vertices and 22 faces removed: 2 pyramid3 and 4 pyramid4 (6s98ms)
+19:03:30 [App     ] Fixed 0/1 non-manifold edges/vertices and 0 faces removed: 0 pyramid3 and 0 pyramid4 (5s938ms)
+19:03:36 [App     ] Fixed 0/0 non-manifold edges/vertices and 0 faces removed: 0 pyramid3 and 0 pyramid4 (5s975ms)
+19:03:36 [App     ] Mesh reconstruction completed: 248004 vertices, 495882 faces (4m36s332ms)
+19:03:36 [App     ] Mesh saved: 248004 vertices, 495882 faces (89ms)
+19:03:37 [App     ] Removed 0 zero-area faces
+19:03:37 [App     ] Removed 17 duplicate faces
+19:03:37 [App     ] Removed 0 unreferenced vertices
+19:03:38 [App     ] Removed 0 non-manifold faces
+19:03:38 [App     ] Removed 0 degenerate vertices
+19:03:38 [App     ] Removed 38 duplicate vertices
+19:03:39 [App     ] Split 37 non-manifold vertices
+19:03:40 [App     ] Split 1 non-manifold vertices
+19:03:41 [App     ] Split 0 non-manifold vertices
+19:03:42 [App     ] Removed 384 faces with edges longer than 1.662599
+19:03:43 [App     ] Removed 31 connected components out of 34
+19:03:45 [App     ] Removed 13 spikes
+19:03:45 [App     ] Closed 2 holes and added 23 new faces
+19:03:45 [App     ] Smoothed 247840 vertices
+19:03:45 [App     ] Cleaned mesh: 247840 vertices, 495377 faces (9s14ms)
+19:03:46 [App     ] Removed 0 zero-area faces
+19:03:46 [App     ] Removed 0 duplicate faces
+19:03:46 [App     ] Removed 0 unreferenced vertices
+19:03:47 [App     ] Removed 0 non-manifold faces
+19:03:47 [App     ] Removed 0 degenerate vertices
+19:03:47 [App     ] Removed 0 duplicate vertices
+19:03:48 [App     ] Split 2 non-manifold vertices
+19:03:49 [App     ] Split 0 non-manifold vertices
+19:03:51 [App     ] Removed 2 spikes
+19:03:52 [App     ] Closed 1 holes and added 4 new faces
+19:03:52 [App     ] Cleaned mesh: 247840 vertices, 495379 faces (6s221ms)
+19:03:52 [App     ] Removed 0 zero-area faces
+19:03:52 [App     ] Removed 0 duplicate faces
+19:03:52 [App     ] Removed 0 unreferenced vertices
+19:03:53 [App     ] Removed 0 non-manifold faces
+19:03:53 [App     ] Removed 0 degenerate vertices
+19:03:53 [App     ] Removed 0 duplicate vertices
+19:03:54 [App     ] Split 0 non-manifold vertices
+19:03:55 [App     ] Cleaned mesh: 247840 vertices, 495379 faces (3s57ms)
+19:03:57 [App     ] Scene saved (2s206ms):
+	16 images (16 calibrated)
+	0 points, 247840 vertices, 495379 faces
+19:03:57 [App     ] Mesh saved: 247840 vertices, 495379 faces (86ms)
+19:03:57 [App     ] MEMORYINFO: {
+19:03:57 [App     ] 	VmPeak:	 6027648 kB
+19:03:57 [App     ] 	VmSize:	 5679520 kB
+19:03:57 [App     ] } ENDINFO

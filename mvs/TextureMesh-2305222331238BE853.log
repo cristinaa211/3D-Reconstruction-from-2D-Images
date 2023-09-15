@@ -1,0 +1,32 @@
+23:31:23 [App     ] Build date: May 15 2023, 22:04:12
+23:31:23 [App     ] CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz (8 cores)
+23:31:23 [App     ] RAM: 15.37GB Physical Memory 2.00GB Virtual Memory
+23:31:23 [App     ] OS: Linux 5.19.0-41-generic (x86_64)
+23:31:23 [App     ] Disk: 14.16GB (99.24GB) space
+23:31:23 [App     ] SSE & AVX compatible CPU & OS detected
+23:31:23 [App     ] Command line: TextureMesh scene_dense_mesh.mvs --decimate 0.5 -w "/home/cristina/openMVS/rezultate_figurina/mvs"
+23:31:23 [App     ] CUDA device 0 initialized: NVIDIA GeForce GTX 1650 (compute capability 7.5; memory 3.68GB)
+23:31:25 [App     ] Scene loaded (2s56ms):
+	16 images (16 calibrated) with a total of 48.00 MPixels (3.00 MPixels/image)
+	0 points, 261770 vertices, 523202 faces
+23:31:25 [App     ] Removed 0 zero-area faces
+23:31:25 [App     ] Removed 0 duplicate faces
+23:31:26 [App     ] Removed 0 unreferenced vertices
+23:32:11 [App     ] Mesh decimated: 523202 -> 261601 faces
+23:32:11 [App     ] Removed 0 zero-area faces
+23:32:12 [App     ] Removed 0 duplicate faces
+23:32:12 [App     ] Removed 2 unreferenced vertices
+23:32:12 [App     ] Removed 0 non-manifold faces
+23:32:12 [App     ] Removed 0 degenerate vertices
+23:32:12 [App     ] Removed 0 duplicate vertices
+23:32:13 [App     ] Split 0 non-manifold vertices
+23:32:14 [App     ] Closed 1 holes and added 0 new faces
+23:32:14 [App     ] Cleaned mesh: 130969 vertices, 261600 faces (48s869ms)
+23:32:14 [App     ] Removed 0 zero-area faces
+23:32:14 [App     ] Removed 0 duplicate faces
+23:32:14 [App     ] Removed 0 unreferenced vertices
+23:32:14 [App     ] Removed 0 non-manifold faces
+23:32:14 [App     ] Removed 0 degenerate vertices
+23:32:15 [App     ] Removed 0 duplicate vertices
+23:32:15 [App     ] Split 0 non-manifold vertices
+23:32:15 [App     ] Cleaned mesh: 130969 vertices, 261600 faces (1s539ms)

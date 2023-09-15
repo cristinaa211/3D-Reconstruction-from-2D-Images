@@ -1,0 +1,11 @@
+14:58:44 [App     ] Build date: May 15 2023, 22:04:12
+14:58:44 [App     ] CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz (8 cores)
+14:58:44 [App     ] RAM: 15.37GB Physical Memory 2.00GB Virtual Memory
+14:58:44 [App     ] OS: Linux 5.19.0-41-generic (x86_64)
+14:58:44 [App     ] Disk: 10.52GB (99.24GB) space
+14:58:44 [App     ] SSE & AVX compatible CPU & OS detected
+14:58:44 [App     ] Command line: RefineMesh scene_dense_mesh.mvs --scales 1 --gradient-step 25.05 -w "/home/cristina/openMVS/rezultate_figurina/mvs"
+14:58:46 [App     ] Scene loaded (1s941ms):
+	16 images (16 calibrated) with a total of 48.00 MPixels (3.00 MPixels/image)
+	0 points, 264529 vertices, 528696 faces
+14:58:46 [App     ] Refine mesh at: 1.00 image scale

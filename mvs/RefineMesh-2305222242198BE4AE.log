@@ -1,0 +1,62 @@
+22:42:19 [App     ] Build date: May 15 2023, 22:04:12
+22:42:19 [App     ] CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz (8 cores)
+22:42:19 [App     ] RAM: 15.37GB Physical Memory 2.00GB Virtual Memory
+22:42:19 [App     ] OS: Linux 5.19.0-41-generic (x86_64)
+22:42:19 [App     ] Disk: 14.51GB (99.24GB) space
+22:42:19 [App     ] SSE & AVX compatible CPU & OS detected
+22:42:19 [App     ] Command line: RefineMesh scene_dense_mesh.mvs --scales 1 --gradient-step 25.05 -w "/home/cristina/openMVS/rezultate_figurina/mvs"
+22:42:21 [App     ] Scene loaded (2s118ms):
+	16 images (16 calibrated) with a total of 48.00 MPixels (3.00 MPixels/image)
+	0 points, 261770 vertices, 523202 faces
+22:42:21 [App     ] Refine mesh at: 1.00 image scale
+22:42:35 [App     ] Mesh imported: 268661 vertices, 536812 facets (540 border edges)
+22:47:12 [App     ] Edge size in [0.00845812, 0.145215] (requested in [0.0181584, 0.145267]): 56409 ops, 50 iters
+22:47:13 [App     ] Mesh exported: 242014 vertices, 482285 facets (1773 border edges)
+22:47:13 [App     ] Removed 0 zero-area faces
+22:47:13 [App     ] Removed 0 duplicate faces
+22:47:13 [App     ] Removed 0 unreferenced vertices
+22:47:14 [App     ] Removed 0 non-manifold faces
+22:47:14 [App     ] Removed 0 degenerate vertices
+22:47:14 [App     ] Removed 0 duplicate vertices
+22:47:15 [App     ] Split 0 non-manifold vertices
+22:47:17 [App     ] Closed 0 holes and added 0 new faces
+22:47:17 [App     ] Removed 0 non-manifold faces
+22:47:17 [App     ] Removed 0 non-manifold vertices
+22:47:17 [App     ] Cleaned mesh: 242014 vertices, 482285 faces (4s585ms)
+22:47:17 [App     ] Mesh subdivided: 261770/523202 -> 242014/482285 vertices/faces
+22:47:18 [App     ] Mesh saved: 242014 vertices, 482285 faces (175ms)
+22:49:19 [App     ] 	 1. f: 60.23622 (2.4890e-04)	g: 0.29640 (1.2247e-06 - 3.2931e-04)	s: 0.500	v:     0
+22:51:14 [App     ] 	 2. f: 59.94923 (2.4771e-04)	g: 0.27226 (1.1250e-06 - 3.0688e-04)	s: 0.490	v:     0
+22:53:02 [App     ] 	 3. f: 59.70666 (2.4671e-04)	g: 0.25301 (1.0454e-06 - 2.8878e-04)	s: 0.480	v:     0
+22:54:52 [App     ] 	 4. f: 59.49538 (2.4583e-04)	g: 0.23665 (9.7784e-07 - 2.7379e-04)	s: 0.471	v:     0
+22:56:38 [App     ] 	 5. f: 59.30848 (2.4506e-04)	g: 0.22326 (9.2251e-07 - 2.6149e-04)	s: 0.461	v:     0
+22:58:24 [App     ] 	 6. f: 59.14106 (2.4437e-04)	g: 0.21234 (8.7738e-07 - 2.5117e-04)	s: 0.452	v:     0
+23:00:13 [App     ] 	 7. f: 58.98856 (2.4374e-04)	g: 0.20273 (8.3768e-07 - 2.4230e-04)	s: 0.443	v:     0
+23:02:03 [App     ] 	 8. f: 58.84717 (2.4316e-04)	g: 0.19470 (8.0449e-07 - 2.3474e-04)	s: 0.434	v:     0
+23:03:49 [App     ] 	 9. f: 58.71843 (2.4262e-04)	g: 0.18769 (7.7553e-07 - 2.2823e-04)	s: 0.425	v:     0
+23:05:31 [App     ] 	10. f: 58.59960 (2.4213e-04)	g: 0.18132 (7.4921e-07 - 2.2249e-04)	s: 0.417	v:     0
+23:07:14 [App     ] 	11. f: 58.48942 (2.4168e-04)	g: 0.17592 (7.2691e-07 - 2.1745e-04)	s: 0.409	v:     0
+23:08:59 [App     ] 	12. f: 58.38577 (2.4125e-04)	g: 0.17073 (7.0544e-07 - 2.1287e-04)	s: 0.400	v:     0
+23:10:41 [App     ] 	13. f: 58.28759 (2.4084e-04)	g: 0.16681 (6.8927e-07 - 2.0888e-04)	s: 0.392	v:     0
+23:12:24 [App     ] 	14. f: 58.19560 (2.4046e-04)	g: 0.16228 (6.7053e-07 - 2.0510e-04)	s: 0.385	v:     0
+23:14:07 [App     ] 	15. f: 58.10955 (2.4011e-04)	g: 0.15847 (6.5480e-07 - 2.0168e-04)	s: 0.377	v:     0
+23:15:49 [App     ] 	16. f: 58.02682 (2.3977e-04)	g: 0.15524 (6.4146e-07 - 1.9859e-04)	s: 0.369	v:     0
+23:17:30 [App     ] 	17. f: 57.94825 (2.3944e-04)	g: 0.15199 (6.2800e-07 - 1.9566e-04)	s: 0.362	v:     0
+23:19:14 [App     ] 	18. f: 57.87508 (2.3914e-04)	g: 0.14914 (6.1623e-07 - 1.9301e-04)	s: 0.355	v:     0
+23:20:56 [App     ] 	19. f: 57.80564 (2.3885e-04)	g: 0.14059 (5.8093e-07 - 1.7441e-04)	s: 0.348	v:     0
+23:22:40 [App     ] 	20. f: 57.74214 (2.3859e-04)	g: 0.13802 (5.7028e-07 - 1.7206e-04)	s: 0.341	v:     0
+23:24:23 [App     ] 	21. f: 57.68180 (2.3834e-04)	g: 0.13565 (5.6052e-07 - 1.6983e-04)	s: 0.334	v:     0
+23:26:05 [App     ] 	22. f: 57.62576 (2.3811e-04)	g: 0.13348 (5.5155e-07 - 1.6776e-04)	s: 0.327	v:     0
+23:27:50 [App     ] 	23. f: 57.57160 (2.3789e-04)	g: 0.13144 (5.4310e-07 - 1.6579e-04)	s: 0.321	v:     0
+23:29:32 [App     ] 	24. f: 57.51941 (2.3767e-04)	g: 0.12952 (5.3520e-07 - 1.6394e-04)	s: 0.314	v:     0
+23:31:15 [App     ] 	25. f: 57.46970 (2.3746e-04)	g: 0.12765 (5.2745e-07 - 1.6215e-04)	s: 0.308	v:     0
+23:31:15 [App     ] Mesh saved: 242014 vertices, 482285 faces (155ms)
+23:31:15 [App     ] Mesh refinement completed: 242014 vertices, 482285 faces (48m53s485ms)
+23:31:17 [App     ] Scene saved (1s657ms):
+	16 images (16 calibrated)
+	0 points, 242014 vertices, 482285 faces
+23:31:17 [App     ] Mesh saved: 242014 vertices, 482285 faces (66ms)
+23:31:17 [App     ] MEMORYINFO: {
+23:31:17 [App     ] 	VmPeak:	 3374480 kB
+23:31:17 [App     ] 	VmSize:	 2260192 kB
+23:31:17 [App     ] } ENDINFO

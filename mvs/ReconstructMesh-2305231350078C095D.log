@@ -1,0 +1,67 @@
+13:50:07 [App     ] Build date: May 15 2023, 22:04:12
+13:50:07 [App     ] CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz (8 cores)
+13:50:07 [App     ] RAM: 15.37GB Physical Memory 2.00GB Virtual Memory
+13:50:07 [App     ] OS: Linux 5.19.0-41-generic (x86_64)
+13:50:07 [App     ] Disk: 5.59GB (99.24GB) space
+13:50:07 [App     ] SSE & AVX compatible CPU & OS detected
+13:50:07 [App     ] Command line: ReconstructMesh scene_dense.mvs -w "/home/cristina/openMVS/rezultate_figurina/mvs" --decimate 0.5
+13:50:07 [App     ] CUDA device 0 initialized: NVIDIA GeForce GTX 1650 (compute capability 7.5; memory 3.68GB)
+13:50:13 [App     ] Scene loaded (5s812ms):
+	16 images (16 calibrated) with a total of 12.00 MPixels (0.75 MPixels/image)
+	680087 points, 0 vertices, 0 faces
+13:51:09 [App     ] Delaunay tetrahedralization completed: 680087 points -> 281195 vertices, 1780630 (+252) cells, 3561386 (+378) faces (54s450ms)
+13:54:27 [App     ] 	weighting completed in 3m12s984ms
+13:54:27 [App     ] Delaunay tetrahedras weighting completed: 1780882 cells, 3561764 faces (3m18s44ms)
+13:54:37 [App     ] Delaunay tetrahedras graph-cut completed (242912 flow): 264579 vertices, 529349 faces (10s247ms)
+13:54:43 [App     ] Fixed 40/69 non-manifold edges/vertices and 263 faces removed: 33 pyramid3 and 41 pyramid4 (5s951ms)
+13:54:49 [App     ] Fixed 4/14 non-manifold edges/vertices and 32 faces removed: 4 pyramid3 and 5 pyramid4 (6s191ms)
+13:54:56 [App     ] Fixed 0/4 non-manifold edges/vertices and 4 faces removed: 0 pyramid3 and 1 pyramid4 (6s280ms)
+13:55:02 [App     ] Fixed 0/0 non-manifold edges/vertices and 0 faces removed: 0 pyramid3 and 0 pyramid4 (6s371ms)
+13:55:02 [App     ] Mesh reconstruction completed: 264627 vertices, 529181 faces (4m49s344ms)
+13:55:02 [App     ] Mesh saved: 264627 vertices, 529181 faces (93ms)
+13:55:02 [App     ] Removed 0 zero-area faces
+13:55:03 [App     ] Removed 12 duplicate faces
+13:55:03 [App     ] Removed 0 unreferenced vertices
+13:56:01 [App     ] Mesh decimated: 529169 -> 264585 faces
+13:56:01 [App     ] Removed 0 zero-area faces
+13:56:02 [App     ] Removed 6 duplicate faces
+13:56:02 [App     ] Removed 6 unreferenced vertices
+13:56:02 [App     ] Removed 6 non-manifold faces
+13:56:02 [App     ] Removed 0 degenerate vertices
+13:56:02 [App     ] Removed 24 duplicate vertices
+13:56:03 [App     ] Split 23 non-manifold vertices
+13:56:03 [App     ] Split 1 non-manifold vertices
+13:56:04 [App     ] Split 0 non-manifold vertices
+13:56:04 [App     ] Removed 336 faces with edges longer than 2.187863
+13:56:05 [App     ] Removed 12 connected components out of 15
+13:56:06 [App     ] Removed 9 spikes
+13:56:06 [App     ] Closed 5 holes and added 32 new faces
+13:56:06 [App     ] Smoothed 132247 vertices
+13:56:06 [App     ] Cleaned mesh: 132247 vertices, 264215 faces (1m3s794ms)
+13:56:06 [App     ] Removed 0 zero-area faces
+13:56:06 [App     ] Removed 0 duplicate faces
+13:56:06 [App     ] Removed 0 unreferenced vertices
+13:56:07 [App     ] Removed 0 non-manifold faces
+13:56:07 [App     ] Removed 0 degenerate vertices
+13:56:07 [App     ] Removed 0 duplicate vertices
+13:56:07 [App     ] Split 1 non-manifold vertices
+13:56:08 [App     ] Split 0 non-manifold vertices
+13:56:08 [App     ] Removed 0 spikes
+13:56:09 [App     ] Closed 2 holes and added 5 new faces
+13:56:09 [App     ] Cleaned mesh: 132248 vertices, 264220 faces (2s703ms)
+13:56:09 [App     ] Removed 0 zero-area faces
+13:56:09 [App     ] Removed 0 duplicate faces
+13:56:09 [App     ] Removed 0 unreferenced vertices
+13:56:09 [App     ] Removed 0 non-manifold faces
+13:56:09 [App     ] Removed 0 degenerate vertices
+13:56:09 [App     ] Removed 0 duplicate vertices
+13:56:10 [App     ] Split 0 non-manifold vertices
+13:56:10 [App     ] Cleaned mesh: 132248 vertices, 264220 faces (1s564ms)
+13:56:12 [App     ] Scene saved (1s431ms):
+	16 images (16 calibrated)
+	0 points, 132248 vertices, 264220 faces
+13:56:12 [App     ] Mesh saved: 132248 vertices, 264220 faces (139ms)
+13:56:12 [App     ] MEMORYINFO: {
+13:56:12 [App     ] 	VmPeak:	 6049096 kB
+13:56:12 [App     ] 	VmSize:	 5687344 kB
+13:56:12 [App     ] } ENDINFO

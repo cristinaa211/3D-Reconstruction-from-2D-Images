@@ -1,0 +1,139 @@
+23:35:17 [App     ] Build date: May 15 2023, 22:04:12
+23:35:17 [App     ] CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz (8 cores)
+23:35:17 [App     ] RAM: 15.37GB Physical Memory 2.00GB Virtual Memory
+23:35:17 [App     ] OS: Linux 5.19.0-41-generic (x86_64)
+23:35:17 [App     ] Disk: 14.16GB (99.24GB) space
+23:35:17 [App     ] SSE & AVX compatible CPU & OS detected
+23:35:17 [App     ] Command line: DensifyPointCloud scene.mvs --dense-config-file Densify.ini --fusion-mode -1 -w "/home/cristina/openMVS/rezultate_figurina/mvs"
+23:35:17 [App     ] CUDA device 0 initialized: NVIDIA GeForce GTX 1650 (compute capability 7.5; memory 3.68GB)
+23:35:17 [App     ] Camera model loaded: platform 0; camera  0; f 0.743x0.743; poses 16
+23:35:17 [App     ] Image loaded   0: IMG_6254.jpg
+23:35:17 [App     ] Image loaded   1: IMG_6253.jpg
+23:35:17 [App     ] Image loaded   2: IMG_6252.jpg
+23:35:17 [App     ] Image loaded   3: IMG_6257.jpg
+23:35:17 [App     ] Image loaded   4: IMG_6256.jpg
+23:35:17 [App     ] Image loaded   5: IMG_6255.jpg
+23:35:17 [App     ] Image loaded   6: IMG_6260.jpg
+23:35:17 [App     ] Image loaded   7: IMG_6247.jpg
+23:35:17 [App     ] Image loaded   8: IMG_6259.jpg
+23:35:17 [App     ] Image loaded   9: IMG_6246.jpg
+23:35:17 [App     ] Image loaded  10: IMG_6258.jpg
+23:35:17 [App     ] Image loaded  11: IMG_6245.jpg
+23:35:17 [App     ] Image loaded  12: IMG_6248.jpg
+23:35:17 [App     ] Image loaded  13: IMG_6249.jpg
+23:35:17 [App     ] Image loaded  14: IMG_6250.jpg
+23:35:17 [App     ] Image loaded  15: IMG_6251.jpg
+23:35:17 [App     ] Scene loaded from interface format (20ms):
+	16 images (16 calibrated) with a total of 48.00 MPixels (3.00 MPixels/image)
+	844 points, 0 vertices, 0 faces
+23:35:17 [App     ] The camera directions mean is unbalanced; the scene will be considered unbounded (no ROI)
+23:35:17 [App     ] Point-cloud composed of 844 points with:
+ - visibility info (2605 views - 3.09 views/point):
+	        0 points with 1- views (0.00%)
+	      475 points with 2  views (56.28%)
+	      147 points with 3  views (17.42%)
+	      222 points with 4+ views (26.30%)
+	2 min / 3.08649 mean (1.77752 std) / 16 max
+23:35:18 [App     ] K4 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K12 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K10 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K0 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K6 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K8 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K14 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K2 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K5 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K13 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K9 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K11 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K1 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K15 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K3 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] K7 = 
+  761.1049     0.0000   387.0705 
+    0.0000   761.1049   502.5917 
+    0.0000     0.0000     1.0000 
+
+23:35:18 [App     ] Preparing images for dense reconstruction completed: 16 images (219ms)
+23:35:18 [App     ] Reference image  11 sees 10 views:   7(80pts,0.98scl)  12(58pts,0.96scl)   9(106pts,0.98scl)  13(27pts,1.02scl)  14(20pts,1.03scl)   2(12pts,1.08scl)  15(12pts,1.06scl)   1(7pts,1.12scl)   0(5pts,1.10scl)   5(3pts,1.10scl) (126 shared points)
+23:35:18 [App     ] Reference image   9 sees 11 views:  12(68pts,0.98scl)   7(96pts,1.00scl)  11(106pts,1.02scl)  13(33pts,1.04scl)  14(25pts,1.05scl)   2(16pts,1.10scl)  15(14pts,1.08scl)   1(10pts,1.15scl)   0(8pts,1.13scl)   5(6pts,1.13scl)   4(3pts,1.13scl) (145 shared points)
+23:35:18 [App     ] Reference image   6 sees 10 views:  10(95pts,0.98scl)   8(118pts,0.99scl)   3(59pts,0.96scl)   4(47pts,0.95scl)   5(45pts,0.96scl)   0(18pts,0.97scl)   1(16pts,0.98scl)   2(11pts,0.94scl)  15(9pts,0.93scl)  14(3pts,0.90scl) (144 shared points)
+23:35:18 [App     ] Reference image   7 sees 11 views:  11(80pts,1.02scl)   9(96pts,1.00scl)  12(95pts,0.99scl)  13(46pts,1.04scl)  14(31pts,1.05scl)  15(17pts,1.09scl)   2(19pts,1.10scl)   1(12pts,1.15scl)   0(11pts,1.13scl)   5(8pts,1.13scl)   4(6pts,1.11scl) (146 shared points)
+23:35:18 [App     ] Reference image   4 sees 14 views:  10(85pts,1.04scl)   3(96pts,1.01scl)   8(71pts,1.05scl)   0(62pts,1.02scl)   5(148pts,1.02scl)   1(44pts,1.04scl)   6(47pts,1.06scl)   2(29pts,1.00scl)  15(24pts,0.97scl)  14(12pts,0.93scl)  13(10pts,0.93scl)   7(6pts,0.90scl)  12(5pts,0.90scl)   9(3pts,0.89scl) (202 shared points)
+23:35:18 [App     ] Reference image   2 sees 15 views:   0(80pts,1.03scl)   1(87pts,1.04scl)  15(96pts,0.98scl)  14(56pts,0.95scl)  13(37pts,0.94scl)   5(35pts,1.02scl)   4(29pts,1.00scl)   3(17pts,1.01scl)  10(15pts,1.04scl)   7(19pts,0.91scl)   8(15pts,1.04scl)   9(16pts,0.91scl)  23:35:18 [App     ] Reference image   2 sees 15 views:   0(80pts,1.03scl)   1(87pts,1.04scl)  15(96pts,0.98scl)  14(56pts,0.95scl)  13(37pts,0.94scl)   5(35pts,1.02scl)   4(29pts,1.00scl)   3(17pts,1.01scl)  10(15pts,1.04scl)   7(19pts,0.91scl)   8(15pts,1.04scl)   9(16pts,0.91scl)  12(18pts,0.89scl)  11(12pts,0.93scl)   6(11pts,1.06scl) (153 shared point23:35:18 [App     ] Reference image   2 sees 15 views:   0(80pts,1.03scl)   1(87pts,1.04scl)  15(96pts,0.98scl)  14(56pts,0.95scl)  13(37pts,0.94scl)   5(35pts,1.02scl)   4(29pts,1.00scl)   3(17pts,1.01scl)  10(15pts,1.04scl)   7(19pts,0.91scl)   8(15pts,1.04scl)   9(16pts,0.91scl)  12(18pts,0.89scl)  11(12pts,0.93scl)   6(11pts,1.06scl) (153 shared points)
+23:35:18 [App     ] Reference image   1 sees 15 views:   2(87pts,0.96scl)  15(67pts,0.94scl)   0(130pts,0.99scl)   5(53pts,0.99scl)   4(44pts,0.97scl)  14(38pts,0.90scl)   3(24pts,0.98scl)  13(26pts,0.89scl)  10(22pts,1.01scl)   8(23pts,1.01scl)   6(16pts,1.02scl)   7(12pts,0.87scl)   9(10pts,0.87scl)  12(9pts,0.86scl)  11(7pts,0.89scl) (172 shared points)
+23:35:18 [App     ] Reference image   3 sees 11 views:   8(96pts,1.03scl)   5(90pts,1.01scl)   4(96pts,0.99scl)   6(59pts,1.04scl)  10(143pts,1.03scl)   0(35pts,1.01scl)   1(24pts,1.02scl)   2(17pts,0.99scl)  15(13pts,0.96scl)  14(4pts,0.92scl)  13(3pts,0.89scl) (193 shared points)
+23:35:18 [App     ] Reference image  12 sees 11 views:   9(68pts,1.02scl)  11(58pts,1.04scl)  13(65pts,1.07scl)   7(95pts,1.01scl)  14(38pts,1.07scl)  15(18pts,1.10scl)   2(18pts,1.12scl)   0(9pts,1.15scl)   1(9pts,1.17scl)   5(7pts,1.14scl)   4(5pts,1.12scl) (134 shared points)
+23:35:18 [App     ] Reference image  15 sees 15 views:   1(67pts,1.07scl)  14(67pts,0.97scl)   2(96pts,1.02scl)   0(58pts,1.06scl)  13(43pts,0.95scl)   5(27pts,1.05scl)  12(18pts,0.91scl)   4(24pts,1.03scl)   7(17pts,0.92scl)   3(13pts,1.04scl)  10(12pts,1.07scl)   9(14pts,0.92scl)   8(11pts,1.06scl)  11(12pts,0.94scl)   6(9pts,1.08scl) (138 shared points)
+23:35:18 [App     ] Reference image   0 sees 15 views:   2(80pts,0.97scl)   5(79pts,1.00scl)   1(130pts,1.01scl)   4(62pts,0.98scl)  15(58pts,0.95scl)   3(35pts,0.99scl)  10(31pts,1.02scl)  14(30pts,0.91scl)   8(30pts,1.02scl)   6(18pts,1.03scl)  13(20pts,0.91scl)  23:35:18 [App     ] Reference image   0 sees 15 views:   2(80pts,0.97scl)   5(79pts,1.00scl)   1(130pts,1.01scl)   4(62pts,0.98scl)  15(58pts,0.95scl)   3(35pts,0.99scl)  10(31pts,1.02scl)  14(30pts,0.91scl)   8(30pts,1.02scl)   6(18pts,1.03scl)  13(20pts,0.91scl)   7(11pts,0.88scl)  12(9pts,0.87scl)   9(8pts,0.88scl)  11(5pts,0.91scl) (184 shared points)
+23:35:18 [App     ] Reference image  13 sees 13 views:  14(75pts,1.01scl)  12(65pts,0.94scl)   7(46pts,0.96scl)  15(43pts,1.05scl)   9(33pts,0.96scl)   2(37pts,1.06scl)  11(27pts,0.98scl)   1(26pts,1.13scl)   0(20pts,1.10scl)   5(11pts,1.10scl)   4(10pts,1.08scl)   3(3pts,1.13scl)  10(3pts,1.16scl) (122 shared points)
+23:35:18 [App     ] Reference image  14 sees 15 views:  15(67pts,1.04scl)  13(75pts,0.99scl)   2(56pts,1.05scl)  12(38pts,0.93scl)   1(38pts,1.11scl)   7(31pts,0.95scl)   0(30pts,1.10scl)   9(25pts,0.95scl)  11(20pts,0.97scl)   5(14pts,1.09scl)   4(12pts,1.08scl)   3(4pts,1.09scl)  10(4pts,1.13scl)   6(3pts,1.11scl)   8(3pts,1.09scl) (123 shared points)
+23:35:18 [App     ] Selecting images for dense reconstruction completed: 16 images (7ms)
+23:35:18 [App     ] Reference image   2 paired with 4 views:   0(1.03scl)   1(1.04scl)  15(0.98scl)  14(0.95scl) (153 shared points)
+23:35:18 [App     ] Reference image  14 paired with 3 views:  15(1.04scl)  13(0.99scl)   2(1.05scl) (123 shared points)
+23:35:28 [App     ] Disparity-map for images   2 and   1: 768x1024 (9s890ms)
+23:35:28 [App     ] 	disparity range: [-107, 143]
+23:35:38 [App     ] Disparity-map for images   2 and  15: 768x1024 (10s349ms)
+23:35:38 [App     ] 	disparity range: [-67, 79]
+23:35:45 [App     ] Disparity-map for images   2 and  14: 768x1024 (6s724ms)
+23:35:45 [App     ] 	disparity range: [-116, 216]
